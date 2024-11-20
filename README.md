@@ -2,6 +2,8 @@
 
 **E-Symphony** is a static e-commerce website that displays a product catalog. Built with HTML, CSS, and JavaScript, it allows users to browse products, filter by category, search by title, and manage a shopping cart. The site is served using a simple Node.js server.
 
+<img width="685" alt="Screenshot 2024-11-20 at 11 47 23 PM" src="https://github.com/user-attachments/assets/70edc1d3-29f4-4e0b-a28e-66a7c4bbc8a6">
+
 ## Setup Instructions
 
 Follow the steps below to set up and run the server on your local machine:
